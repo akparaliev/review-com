@@ -1,0 +1,13 @@
+/Users/nurbek/review-com/ReviewComDAL/bin/Debug/net8.0/ReviewComDAL.deps.json
+/Users/nurbek/review-com/ReviewComDAL/bin/Debug/net8.0/ReviewComDAL.dll
+/Users/nurbek/review-com/ReviewComDAL/bin/Debug/net8.0/ReviewComDAL.pdb
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.csproj.AssemblyReference.cache
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.AssemblyInfoInputs.cache
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.AssemblyInfo.cs
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.csproj.CoreCompileInputs.cache
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.sourcelink.json
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.dll
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/refint/ReviewComDAL.dll
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ReviewComDAL.pdb
+/Users/nurbek/review-com/ReviewComDAL/obj/Debug/net8.0/ref/ReviewComDAL.dll
